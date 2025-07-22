@@ -6,5 +6,5 @@
         "./Cargo.toml"
     ],
     "rust-analyzer.showUnlinkedFileNotification": false,
-    "nixEnvSelector.nixFile": "${workspaceRoot}/flake.nix"
+    "nixEnvSelector.nixFile": "${workspaceRoot}/devenv.nix"
 }
